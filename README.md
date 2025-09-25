@@ -25,7 +25,7 @@ I am currently building my professional track in **Security Operations Center (S
 | **Application Security (AppSec)** | **PortSwigger (Burp Suite)** | Studying web application vulnerabilities and best practices (OWASP Top 10). |
 | **Programming/Scripting** | **Python**, **Bash** | Used primarily for security automation, scripting, and data analysis in security projects. |
 
-<p align="center">
+<p align="left">
     <a href="Your_Python_Repos_Link" target="_blank"><img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
     <a href="Your_Shell_Repos_Link" target="_blank"><img alt="Shell" src="https://img9.shields.io/badge/-Shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
 
@@ -41,7 +41,7 @@ This section covers my current academic work for the graduation project.
 | :--- | :--- | :--- |
 | **Graduation Project** | **Machine Learning (ML)**, TensorFlow/PyTorch, Data Analysis | **Applying ML algorithms for security purposes**, such as anomaly detection, behavior analysis, or malware classification. |
 
-<p align="center">
+<p align="left">
     <a href="Your_ML_Projects_Link" target="_blank"><img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>
 </p>
 
