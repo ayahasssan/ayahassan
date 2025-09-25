@@ -34,6 +34,18 @@ I am currently building my professional track in **Security Operations Center (S
 
 ---
 
+## 🤖 Academic Focus: Machine Learning (ML)
+
+This section covers my current academic work for the graduation project.
+
+| Project Area | Tools & Concepts | Goal |
+| :--- | :--- | :--- |
+| **Graduation Project** | **Machine Learning (ML)**, TensorFlow/PyTorch, Data Analysis | **Applying ML algorithms for security purposes**, such as anomaly detection, behavior analysis, or malware classification. |
+
+<p align="center">
+    <a href="Your_ML_Projects_Link" target="_blank"><img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"></a>
+</p>
+
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
