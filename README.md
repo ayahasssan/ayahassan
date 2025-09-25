@@ -23,7 +23,7 @@ I am currently building my professional track in **Security Operations Center (S
 | :--- | :--- | :--- |
 | **Cyber Defense & Analysis** | **HackTheBox** (HTB), **TryHackMe** (THM), **CyberDefenders** | Hands-on practice in **SOC analysis**, digital forensics, and incident handling. |
 | **Application Security (AppSec)** | **PortSwigger (Burp Suite)** | Studying web application vulnerabilities and best practices (OWASP Top 10). |
-| **Graduation Project** | **Machine Learning (ML)** | Applying ML algorithms for security purposes, such as anomaly detection and malware classification. |
+| **Graduation Project** | **Machine Learning (ML)** | **Applying ML algorithms for security purposes**, such as anomaly detection and malware classification. |
 | **Programming/Scripting** | **Python**, **Bash** | Used primarily for security automation, scripting, and data analysis in security projects. |
 
 <p align="center">
