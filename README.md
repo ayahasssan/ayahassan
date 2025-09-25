@@ -7,7 +7,6 @@
     <a href="https://tryhackme.com/p/engaya161" target="_blank"><img alt="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-FF5123?style=flat-square&logo=TryHackMe&logoColor=white"></a>
     <a href="https://portswigger.net/web-security" target="_blank"><img alt="PortSwigger" src="https://img.shields.io/badge/-PortSwigger-f06636?style=flat-square&logo=BurpSuite&logoColor=white"></a>
     <a href="https://cyberdefenders.org/p/engaya161" target="_blank"><img alt="CyberDefenders" src="https://img.shields.io/badge/-CyberDefenders-2481A6?style=flat-square&logo=shield&logoColor=white"></a>
-
 </p>
 
 ---
