@@ -26,7 +26,7 @@ I am currently building my professional track in **Security Operations Center (S
 | **Programming/Scripting** | **Python**, **Bash** | Used primarily for security automation, scripting, and data analysis in security projects. |
 
 <p align="left">
-    <a href="Your_Python_Repos_Link" target="_blank"><img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+    <a href="https://github.com/ayahasssan/Python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
     <a href="Your_Shell_Repos_Link" target="_blank"><img alt="Shell" src="https://img9.shields.io/badge/-Shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
 
 </p>
